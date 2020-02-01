@@ -1,0 +1,11 @@
+*.o
+*.txt
+a.out
+bsq
+*.a
+*#
+*~
+mouli_maps
+mouli_maps_solved
+B-CPE-110_BSQ_board_generator.pl
+bsq_test.sh
