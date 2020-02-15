@@ -20,7 +20,7 @@ You program must print the board, with some “.” replaced by “x” to repre
 ![alt text](https://i.imgur.com/UQ82U3h.png)
 
 # Bonus
-
+- **Make Rule** make bonus
 - **Usage:** ./bonus_bsq board
 
 ![all text](https://i.imgur.com/RjFnrIB.png)
